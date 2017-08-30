@@ -10,7 +10,7 @@
 1. Create a DSX project
 2. Import data and notebook
 3. Add project token
-4. Open RStudio and import the Shiny.zip
+4. Open **RStudio** and import *Shiny.zip*
    * Select Upload menu in the file explorer in the right corner <br>
    ![ImportShiny](images/ImportShiny.JPG?raw=true)
    * When loaded, you should see the following files <br>
@@ -20,10 +20,10 @@
     install.packages("randomForest") <br>
     ![InstallDT](images/InstallDT.JPG?raw=true)
     ![InstallRandomForest](images/InstallRandomForest.JPG?raw=true)
-   * Click on serverR in the file explorer. After the application is loaded, click the *Run App* button. <br>
+   * Click on *serverR* in the file explorer. After the application is loaded, click the *Run App* button. <br>
    ![ServerR_loaded](images/ServerR_loaded.JPG?raw=true)
    * If prompted, install the latest packages 
-   * Select "Allow popups" to bring up the application
+   * Select *Allow popups* to bring up the application
    * Test the application - both the Explore and Model tabs <br>
    ![App](images/App.JPG?raw=true)
    
