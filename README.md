@@ -1,4 +1,4 @@
-# DSX Local for Automotive Industry
+# DSX Local demo: Predicting Driver Type
 
 **This repository contains the following assets for the DSX Local demo**
 1. Presentation - replace *Use Case* slides from this repo in [this presentation](https://github.com/elenalowery/DSXLocal_TelcoChurn/tree/master/Presentation)
